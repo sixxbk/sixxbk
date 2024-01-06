@@ -1,7 +1,6 @@
 <a href="https://velog.io/@sixxbk"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 <br/>
-<br/>
 
 ## :computer: Skills
 
